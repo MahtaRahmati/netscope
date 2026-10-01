@@ -1,0 +1,25 @@
+Project 1/6: NetScope — Interactive Network Toolkit
+
+• IPv4 subnet calculation with CIDR or contiguous dotted masks, address classes, host ranges, binary display, and /31 and /32 handling.
+• Editable SVG topology with routers, switches, PCs, and servers; connect/disconnect, drag, JSON import/export, and local persistence.
+• Shortest-path packet journey simulation and a four-question Network+ practice quiz.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+Includes automated tests for the core logic.
+The packet journey is an educational simulation.
+
+Source code and setup: https://github.com/MahtaRahmati/netscope
+
+Feedback and code reviews are welcome.
+
+#JavaScript #Networking #NetworkPlus #WebDevelopment
+
+────────────
+
+پروژهٔ 1 از ۶: NetScope
+
+محاسبهٔ زیرشبکه، نمایش آدرس‌های شبکه و Broadcast، نقشهٔ تعاملی دستگاه‌ها و شبیه‌سازی مسیر بسته.
+
+این نسخه با JavaScript، HTML و CSS ساخته شده و در مرورگر اجرا می‌شود.
+
+کد و راهنمای اجرا: https://github.com/MahtaRahmati/netscope
