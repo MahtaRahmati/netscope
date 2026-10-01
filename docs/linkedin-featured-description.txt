@@ -1,0 +1,3 @@
+IPv4 subnet calculation with CIDR or contiguous dotted masks, address classes, host ranges, binary display, and /31 and /32 handling.
+
+محاسبهٔ زیرشبکه، نمایش آدرس‌های شبکه و Broadcast، نقشهٔ تعاملی دستگاه‌ها و شبیه‌سازی مسیر بسته.

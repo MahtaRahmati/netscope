@@ -1,0 +1,12 @@
+IPv4 subnet calculation with CIDR or contiguous dotted masks, address classes, host ranges, binary display, and /31 and /32 handling.
+
+Editable SVG topology with routers, switches, PCs, and servers; connect/disconnect, drag, JSON import/export, and local persistence.
+
+Shortest-path packet journey simulation and a four-question Network+ practice quiz.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+
+GitHub: https://github.com/MahtaRahmati/netscope
+
+فارسی:
+محاسبهٔ زیرشبکه، نمایش آدرس‌های شبکه و Broadcast، نقشهٔ تعاملی دستگاه‌ها و شبیه‌سازی مسیر بسته.
